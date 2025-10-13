@@ -1,0 +1,19 @@
+Custom Non-Commercial, No-Redistribution License
+------------------------------------------------
+
+Copyright (c) 2025 RetroReVamped
+
+Permission is hereby granted to any individual to download, use, and modify this software for personal and private use only.
+
+The following restrictions apply:
+
+1. Commercial use of this software or any derivative works is strictly prohibited.
+2. Redistribution, repackaging, sublicensing, or any form of public or private distribution of this software or its derivative works, whether modified or unmodified, is strictly prohibited without explicit written permission from the copyright holder.
+3. Derivative works created for personal use must remain private and are subject to the same restrictions as the original software.
+
+This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+By using this software, you agree to these terms.
+
+------------------------------------------------
+RetroReVamped - 2025
