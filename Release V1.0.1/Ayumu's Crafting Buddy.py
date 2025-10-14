@@ -1049,8 +1049,8 @@ def open_add_raw_popup():
     tk.Entry(frm, textvariable=img_var, width=28).grid(row=2, column=1, pady=4)
 
     info = (
-        'Place images in the "images" folder (include extension, e.g. "item.png").\n'
-        "Most raw materials have no cost; leave empty if none."
+        'Please put all images in the "images" folder. Include the file extension in the name (e.g. for PNG file "item.png").\n'
+        "Most raw materials do not have a cost. Leave empty if none."
     )
     tk.Label(top, text=info, justify="left", wraplength=360).pack(padx=10, pady=(0, 8))
 
@@ -1136,9 +1136,9 @@ def open_add_craftable_single_popup():
     desc_txt.pack(padx=10, pady=(0, 8))
 
     info = (
-        'Images belong in "images" (include extension). '
-        'Cost is the crafting cost if any. '
-        'Ingredients use "# Item, # Item, ..." (case matters). '
+        'Please put all images in the "images" folder. Include the file extension in the name (e.g. for PNG file "item.png").\n'
+        'For cost, put the cost to craft the item if any.\n'
+        'For Ingredients use "# Item, # Item, # Item" (case matters!).\n'
         "Description supports multiple lines."
     )
     tk.Label(frame, text=info, justify="left", wraplength=360).pack(padx=10, pady=(0, 8))
@@ -1257,9 +1257,10 @@ def open_add_craftable_variations_form(n_variations):
     desc_txt.pack(padx=10, pady=(0, 8))
 
     info = (
-        'Images go in "images" (include extension). '
-        'Provide cost per variation if any. '
-        'List variation ingredients as "# Item, # Item, ...".'
+        'Please put all images in the "images" folder. Include the file extension in the name (e.g. for PNG file "item.png").\n'
+        'For cost, enter the cost for each variation if any.\n'
+        'For Variations use "# Item, # Item, # Item" (case matters).\n'
+        "Description supports multiple lines."
     )
     tk.Label(frame, text=info, justify="left", wraplength=360).pack(padx=10, pady=(0, 8))
 
