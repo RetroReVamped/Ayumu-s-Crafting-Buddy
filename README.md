@@ -1,6 +1,6 @@
 # Ayumu’s Crafting Buddy
 
-*A EO-inspired crafting companion and recipe manager for crafters, collectors, and EO-style tinkerers.*
+*A crafting guide / recipe calculator for Endless Online.*
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-green.svg)
@@ -11,14 +11,15 @@
 
 ## 🌟 Overview
 
-**Ayumu’s Crafting Buddy** is a standalone desktop that helps you manage, view, and explore **crafting recipes** with support for:
+**Ayumu’s Crafting Buddy** is a standalone desktop app that helps you view and explore **crafting recipes** with support for:
 
 - Raw materials and craftable items  
+- **Full cost breakdown and raw material summary**
 - Multi-step crafting chains  
-- Multiple recipe variations per item
-- Full cost breakdown and raw material summary  
+- Multiple recipe variations per item  
 - Integrated image previews and descriptions  
-- Simple and cozy EO-style UI  
+- Simple and cozy EO-style UI
+- **More items coming soon...**
 
 ---
 
@@ -89,6 +90,8 @@ Ayumu's Crafting Buddy.py
 
 ## ⚙️ Coming Soon
 🌗 Optional Dark / EO-style Theme
+
+More items!! This is still in early development!
 
 ## 🧑‍💻 Credits
 Developed by: Ayumu @ RetroReVamped
