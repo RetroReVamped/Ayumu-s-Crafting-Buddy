@@ -21,6 +21,10 @@
 - Simple and cozy EO-style UI
 - **More items coming soon...**
 
+Click the image below to watch a how to on youtub!
+
+[![Ayumu's Crafting Buddy](https://img.youtube.com/vi/TpqoXcy9qjE/0.jpg)](https://www.youtube.com/watch?v=TpqoXcy9qjE)
+
 ---
 
 ## ⚙️ Key Features
